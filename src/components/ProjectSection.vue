@@ -4,7 +4,7 @@ const project = ref([
     {
         id: 1,
         category: 'web development',
-        img: 'src/assets/e-farm.jpg',
+        img: '/e-farm.jpg',
         title: 'Project 1',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.',
         technologies: ['React.js', 'Tailwind', 'Bootstrap', 'Firebase'],
@@ -14,7 +14,7 @@ const project = ref([
     {
         id: 2,
         category: 'figma',
-        img: 'src/assets/lumiere.jpg',
+        img: '/lumiere.jpg',
         title: 'Project 2',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.',
         technologies: ['Figma'],
@@ -24,7 +24,7 @@ const project = ref([
     {
         id: 3,
         category: 'figma',
-        img: 'src/assets/jagoanaluminium.jpg',
+        img: '/jagoanaluminium.jpg',
         title: 'Project 3',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.',
         technologies: ['Figma'],
