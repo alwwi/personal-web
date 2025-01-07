@@ -41,7 +41,7 @@
                         </div>
                         <div class="ml-5 text-white">
                             <h4>Linkedin</h4>
-                            <p>www.Linkedin.com/alwi-achmad-alatas</p>
+                            <p>www.Linkedin.com/in/alwi-achmad-alatas</p>
                         </div>
                     </div>
                 </div>
