@@ -120,7 +120,7 @@ const shouldShowIcon = (category) => {
                         <p class="text-[#adb7be]">{{ project.desc }}</p>
                         <div class="flex flex-wrap p-2.5">
                             <div v-for="technology in project.technologies" :key="technology"
-                                class="text-center ml-1 mt-1 rounded-3xl bg-[#111827]"
+                                class="text-center px-4 ml-1 mt-1 rounded-3xl bg-[#111827]"
                                 style="box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); border: 1px solid #111827;backdrop-filter: blur(9px);-webkit-backdrop-filter: blur(9px);">
                                 <p class="px-1 py-2">{{ technology }}</p>
                             </div>
