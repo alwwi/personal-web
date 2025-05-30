@@ -22,7 +22,7 @@ AOS.init();
                     </div>
                     <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
                         Mahasiswa informatika yang tertarik pada bidang Front-End development, 
-                        saat ini sedang saya sedang menempuh smester 7 di Universitas Islam Indonesia. 
+                        saat ini sedang saya sedang menempuh smester 8 di Universitas Islam Indonesia. 
                         Tujuan saya membuat website ini untuk mengenalkan diri saya serta keterampilan 
                         yang saya miliki dalam bidang informatika.
                     </p>
@@ -48,7 +48,7 @@ AOS.init();
                                     </svg>
                                     <div class="download-loader text-white hidden"></div>
                                 </div>
-                                <a href="/src/assets/resume-alwi-idn.pdf" download="resume.pdf" class="pl-2 text-primary">Dwornload Resume</a>
+                                <a href="/resume-alwi-idn.pdf" download="resume.pdf" class="pl-2 text-primary">Download Resume</a>
                             </div>
 
                         </button>

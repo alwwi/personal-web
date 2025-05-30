@@ -9,12 +9,12 @@ const Skills = ref([
     {
         id: 2,
         name: 'React.js',
-        width: '70%',
+        width: '60%',
     },
     {
         id: 3,
-        name: 'PHP',
-        width: '50%',
+        name: 'JavaScript',
+        width: '60%',
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const Skills = ref([
     {
         id: 5,
         name: 'Python',
-        width: '30%',
+        width: '50%',
     },
 ])
 
