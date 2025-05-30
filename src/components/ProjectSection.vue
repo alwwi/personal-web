@@ -31,6 +31,16 @@ const project = ref([
         projectUrl: 'https://www.figma.com/design/rd8Cc4T3u4lQnxJ7MhHzmq/Desain-Jagoan-Aluminum?node-id=0-1&t=vbFKdGjmat6sy4rI-1',
         Url: 'https://www.figma.com/design/rd8Cc4T3u4lQnxJ7MhHzmq/Desain-Jagoan-Aluminum?node-id=0-1&t=vbFKdGjmat6sy4rI-1',
     },
+    {
+        id: 4,
+        category: 'web development',
+        img: '/quiz-web-app.png',
+        title: 'Project Quiz Web App',
+        desc: 'Membuat portofolio project menggunakan open API kuis dari Trivia.',
+        technologies: ['React.js', 'Tailwind', 'Vite'],
+        projectUrl: 'https://github.com/alwwi/quiz-web-app.git',
+        Url: 'https://quiz-web-app-phi-azure.vercel.app/',
+    }
 
 ])
 
